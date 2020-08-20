@@ -1,0 +1,42 @@
+body{
+    margin: 0 auto;
+    padding: 15px;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+#high-score {
+padding: 20px;
+}
+
+#timer {
+padding: 20px;
+text-align: right;;  
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+    padding: 5px;
+    margin: 10px;
+    border-radius: 8px;
+    border-color: red;
+    background-color: white;
+}
+
+#start-button {
+    border-style: solid;
+    background-color: lightgreen;
+}
+
+#list-of-scores {
+    font-size: 35px;
+    text-align: center;
+    border-style: solid;
+    
+}
